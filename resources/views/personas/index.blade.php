@@ -1,3 +1,4 @@
+@extends('layouts.app')
 @section('content')
 <div class="container" style="max-width: 900px">
   <h1>Personas</h1>
